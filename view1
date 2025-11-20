@@ -4,3 +4,10 @@ start with fundamental concepts like linux and scripting then move to core tools
 
 // prints Hello, World! on the screen
 print("Hello, World!")
+
+
+
+JVM Based Language − Groovy compiles the code to java byte code and runs on JVM. Thus porting to Groovy is very easy as it uses the existing vast ecosystem of Java and its libraries.
+Dynamic & Optional Typing − Where Java is strictly typed language, Groovy is a dynamically typed language by default which means we are not bound to declare variable types. Although static typing can be done to improve performance and utilize complie time checks.
+Object Oriented & Scripting − Groovy is an object oriented language as well as a scripting language allowing to create full fledge application as well as quick scripts.
+Syntactic Sugar − Groovy is an enhancement to Java providing more concise syntax and features streamlining programming practices.
